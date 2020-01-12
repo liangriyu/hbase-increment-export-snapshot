@@ -1,4 +1,5 @@
-\# hbase-increment-export-snapshot
+# hbase-increment-export-snapshot
+```
 create_namespace 'test'
 
 
@@ -86,4 +87,4 @@ enable 'demo:test'
 \#校验数据
 count 'demo:test'
 \--------------------------------------------oss改造---------------------------------------
-
+```
